@@ -1,0 +1,2 @@
+# studia
+Nudy ze studiów
