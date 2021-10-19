@@ -1,4 +1,4 @@
-// zadanie_1.c Kewin Ignasiak
+// zadanie1.c Kewin Ignasiak
 
 #include <stdio.h>
 
