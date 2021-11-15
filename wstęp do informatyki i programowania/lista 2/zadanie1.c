@@ -15,12 +15,12 @@ int main()
     int zl_pieniadze[8] = {200, 100, 50, 20, 10, 5, 2, 1};
     int gr_pieniadze[6] = {50, 20, 10, 5, 2, 1};
 
-    if (zl > 10)
+    if (zl >= 10)
         printf("banknoty: \n");
 
     for (int i = 0; i < 8; i++)
     {
-        if (zl_pieniadze[i] == 5)
+        if (zl_pieniadze[i] == 5 && (zl > 0 || gr > 0))
             printf("monety: \n");
 
         int ilosc = zl / zl_pieniadze[i];
