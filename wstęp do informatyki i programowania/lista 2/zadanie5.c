@@ -34,8 +34,13 @@ int main()
         {
             int n = NWD(b, a);
 
-            if (n == 1)
-                liczba_par_dla_a += 1;
+            if (n == 1) 
+            {
+                if (a == b)
+                    liczba_par_dla_a += 1;
+                else 
+                    liczba_par_dla_a += 2;
+            }
 
             liczba_par[b - 1] += liczba_par_dla_a;
         }
