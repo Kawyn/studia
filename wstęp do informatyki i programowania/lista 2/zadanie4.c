@@ -1,13 +1,16 @@
 // zadanie4.c Kewin Ignasiak
 
 #include <stdio.h>
+#include <math.h>
 
-#define E 2.7182818284
+#define N 1000
 
 int main()
 {
-    // Ze wzoru Stirlinga
-    double przyblizenie = 1000 / E;
+    double przyblizenie = 1;
+
+    for (int i = 1; i <= N; i++)
+        przyblizenie *= pow(i, 1.0 / N);
 
     printf("przyblizenie wynosi %f", przyblizenie);
 
