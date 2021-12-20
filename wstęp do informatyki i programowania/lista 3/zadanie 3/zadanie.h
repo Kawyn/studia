@@ -1,0 +1,1 @@
+int phi(long int);
