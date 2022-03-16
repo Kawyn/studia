@@ -46,7 +46,7 @@ LiczbyPierwsze::LiczbyPierwsze(int n)
         }
     }
 
-    delete temp;
+    delete[] temp;
 }
 
 int LiczbyPierwsze::liczba(int m)
@@ -60,5 +60,5 @@ int LiczbyPierwsze::liczba(int m)
 
 LiczbyPierwsze::~LiczbyPierwsze()
 {
-    delete liczby_pierwsze;
+    delete[] liczby_pierwsze;
 }
