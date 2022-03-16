@@ -4,6 +4,11 @@
 
 int main(int argc, char *argv[])
 {
+    if (argc < 2) {
+        
+        std::cout << "za mało argumentów" << std::endl;
+        return -1;
+    }
 
     LiczbyPierwsze *liczby_pierwsze;
 
