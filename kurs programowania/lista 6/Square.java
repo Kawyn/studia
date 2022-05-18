@@ -6,7 +6,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 
 /**
- * 
+ * Klasa, która odpowiada za aktualizacje koloru kwadratu i jego stworzenie, umieszczenie.
  */
 public class Square extends Thread {
 
