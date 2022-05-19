@@ -14,7 +14,7 @@ public class Program extends Application {
     /**
      * Rozmiar kwadratu w pikselach.
      */
-    public static int SQUARE_SIZE = 20;
+    public static int SQUARE_SIZE = 100;
 
     /**
      * Ilość kwadratów w osi X. Ustawiana jest za pomocą parametrów początkowych.
