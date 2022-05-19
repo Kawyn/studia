@@ -153,7 +153,7 @@ public class Square extends Thread {
                     System.out.println("[" + this.x + ", " + this.y + "] stop");
                 }
 
-                Thread.sleep((int) (Utilities.random.nextDouble() + 0.5) * Program.DELAY);
+                Thread.sleep((int)((Utilities.random.nextDouble() + 0.5) * Program.DELAY));
 
                 // tutaj jest pauzowanie.
                 if (!this.isActive()) {
