@@ -3,6 +3,7 @@
 import javafx.application.Application;
 import javafx.scene.layout.GridPane;
 import javafx.scene.Scene;
+import javafx.stage.Screen;
 import javafx.stage.Stage;
 
 /**
@@ -13,7 +14,7 @@ public class Program extends Application {
     /**
      * Rozmiar kwadratu w pikselach.
      */
-    public static final int SQUARE_SIZE = 20;
+    public static int SQUARE_SIZE = 20;
 
     /**
      * Ilość kwadratów w osi X. Ustawiana jest za pomocą parametrów początkowych.
@@ -89,6 +90,10 @@ public class Program extends Application {
 
         Program.SIZE_X = Utilities.toInteger(args[0]);
         Program.SIZE_Y = Utilities.toInteger(args[1]);
+        
+        Program.SQUARE_SIZE = (int)Math.min(20, Math.min(
+		    Screen.getPrimary().getBounds().getWidth() / Program.SIZE_X,
+		    Screen.getPrimary().getBounds().getHeight()/ Program.SIZE_Y));
 
         Program.DELAY = Utilities.toInteger(args[2]);
 
