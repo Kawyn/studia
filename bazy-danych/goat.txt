@@ -1,0 +1,6 @@
+UPDATE Employess SET department = 'Sales' Where first_name = 'Tobi' AND last_name = 'Barnett';
+
+UPDATE employees SET department = 'Sales' Where first_name = 'Tobi' AND last_name = 'Barnett';
+SELECT department FROM Employees WHERE first_name = 'Bob' AND last_name = 'Franco';
+ALTER TABLE employees ADD COLUMN phone varchar(20)
+GRANT all ON grant_rights TO unauthorized_user;
