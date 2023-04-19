@@ -1,0 +1,602 @@
+[
+    {
+        "steps": 39,
+        "visitedNodes": 10382,
+        "createdNodes": 20049,
+        "time": 170.3885000348091
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 3127,
+        "createdNodes": 6092,
+        "time": 62.27390003204346
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 18009,
+        "createdNodes": 34212,
+        "time": 301.19459998607635
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 5668,
+        "createdNodes": 11058,
+        "time": 62.616499960422516
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 566,
+        "createdNodes": 1119,
+        "time": 6.285099983215332
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 705,
+        "createdNodes": 1412,
+        "time": 10.191600024700165
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 14253,
+        "createdNodes": 27361,
+        "time": 159.34859997034073
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 5116,
+        "createdNodes": 9974,
+        "time": 47.46660000085831
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 207,
+        "createdNodes": 402,
+        "time": 1.6287999749183655
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 906,
+        "createdNodes": 1773,
+        "time": 6.159699976444244
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 1183,
+        "createdNodes": 2323,
+        "time": 9.816999971866608
+    },
+    {
+        "steps": 27,
+        "visitedNodes": 972,
+        "createdNodes": 1913,
+        "time": 6.694499969482422
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 561,
+        "createdNodes": 1100,
+        "time": 5.133900046348572
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 21036,
+        "createdNodes": 40158,
+        "time": 228.79939997196198
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 21086,
+        "createdNodes": 40176,
+        "time": 294.88880002498627
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 3013,
+        "createdNodes": 5817,
+        "time": 25.02649998664856
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 9041,
+        "createdNodes": 17585,
+        "time": 81.98339998722076
+    },
+    {
+        "steps": 45,
+        "visitedNodes": 18040,
+        "createdNodes": 34391,
+        "time": 172.58100003004074
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 1564,
+        "createdNodes": 3051,
+        "time": 10.939300000667572
+    },
+    {
+        "steps": 27,
+        "visitedNodes": 1317,
+        "createdNodes": 2516,
+        "time": 8.730000019073486
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 34959,
+        "createdNodes": 66833,
+        "time": 1276.5206999778748
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 3761,
+        "createdNodes": 7332,
+        "time": 35.48010003566742
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 3910,
+        "createdNodes": 7660,
+        "time": 40.986299991607666
+    },
+    {
+        "steps": 13,
+        "visitedNodes": 92,
+        "createdNodes": 181,
+        "time": 0.8185999989509583
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 10858,
+        "createdNodes": 21100,
+        "time": 100.77639997005463
+    },
+    {
+        "steps": 39,
+        "visitedNodes": 3554,
+        "createdNodes": 6853,
+        "time": 33.27300000190735
+    },
+    {
+        "steps": 21,
+        "visitedNodes": 205,
+        "createdNodes": 399,
+        "time": 1.8048999905586243
+    },
+    {
+        "steps": 49,
+        "visitedNodes": 39785,
+        "createdNodes": 75786,
+        "time": 1844.4557999968529
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 422,
+        "createdNodes": 822,
+        "time": 3.1152999997138977
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 15629,
+        "createdNodes": 30013,
+        "time": 193.18449997901917
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 1067,
+        "createdNodes": 2086,
+        "time": 9.907599985599518
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 859,
+        "createdNodes": 1652,
+        "time": 5.690400004386902
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 11500,
+        "createdNodes": 22282,
+        "time": 117.41429996490479
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 192,
+        "createdNodes": 380,
+        "time": 1.3185999989509583
+    },
+    {
+        "steps": 27,
+        "visitedNodes": 4327,
+        "createdNodes": 8400,
+        "time": 41.02020001411438
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 220,
+        "createdNodes": 440,
+        "time": 1.62909996509552
+    },
+    {
+        "steps": 51,
+        "visitedNodes": 242407,
+        "createdNodes": 455060,
+        "time": 60277.27099996805
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 2382,
+        "createdNodes": 4667,
+        "time": 18.498799979686737
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 3025,
+        "createdNodes": 5821,
+        "time": 29.196099996566772
+    },
+    {
+        "steps": 17,
+        "visitedNodes": 108,
+        "createdNodes": 205,
+        "time": 0.9305000305175781
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 7867,
+        "createdNodes": 15224,
+        "time": 66.51160001754761
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 28055,
+        "createdNodes": 54187,
+        "time": 330.60350000858307
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 2102,
+        "createdNodes": 4081,
+        "time": 79.02449995279312
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 373,
+        "createdNodes": 731,
+        "time": 3.848099946975708
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 785,
+        "createdNodes": 1526,
+        "time": 4.885800004005432
+    },
+    {
+        "steps": 43,
+        "visitedNodes": 7341,
+        "createdNodes": 14109,
+        "time": 60.911499977111816
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 7848,
+        "createdNodes": 15235,
+        "time": 65.78039997816086
+    },
+    {
+        "steps": 47,
+        "visitedNodes": 8119,
+        "createdNodes": 15472,
+        "time": 69.98469996452332
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 12334,
+        "createdNodes": 23714,
+        "time": 106.74410003423691
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 4723,
+        "createdNodes": 9184,
+        "time": 32.91049998998642
+    },
+    {
+        "steps": 51,
+        "visitedNodes": 64989,
+        "createdNodes": 122653,
+        "time": 5489.669000029564
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 9763,
+        "createdNodes": 18809,
+        "time": 84.04250001907349
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 4689,
+        "createdNodes": 9225,
+        "time": 49.89039999246597
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 846,
+        "createdNodes": 1691,
+        "time": 7.693499982357025
+    },
+    {
+        "steps": 45,
+        "visitedNodes": 5898,
+        "createdNodes": 11083,
+        "time": 62.84869998693466
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 1532,
+        "createdNodes": 3085,
+        "time": 13.441500008106232
+    },
+    {
+        "steps": 47,
+        "visitedNodes": 30713,
+        "createdNodes": 57845,
+        "time": 375.6341000199318
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 784,
+        "createdNodes": 1562,
+        "time": 6.016799986362457
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 11903,
+        "createdNodes": 22657,
+        "time": 101.62080001831055
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 1946,
+        "createdNodes": 3768,
+        "time": 13.195500016212463
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 270,
+        "createdNodes": 542,
+        "time": 1.883899986743927
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 2102,
+        "createdNodes": 4108,
+        "time": 20.388799965381622
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 298,
+        "createdNodes": 576,
+        "time": 2.3429999947547913
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 2403,
+        "createdNodes": 4613,
+        "time": 22.56199997663498
+    },
+    {
+        "steps": 27,
+        "visitedNodes": 2241,
+        "createdNodes": 4360,
+        "time": 23.690500020980835
+    },
+    {
+        "steps": 21,
+        "visitedNodes": 458,
+        "createdNodes": 888,
+        "time": 3.8861000537872314
+    },
+    {
+        "steps": 45,
+        "visitedNodes": 47439,
+        "createdNodes": 90161,
+        "time": 2754.9176999926567
+    },
+    {
+        "steps": 39,
+        "visitedNodes": 10578,
+        "createdNodes": 20375,
+        "time": 80.12269997596741
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 931,
+        "createdNodes": 1886,
+        "time": 10.02350002527237
+    },
+    {
+        "steps": 39,
+        "visitedNodes": 11675,
+        "createdNodes": 22215,
+        "time": 106.73340004682541
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 626,
+        "createdNodes": 1229,
+        "time": 4.510300040245056
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 1692,
+        "createdNodes": 3353,
+        "time": 12.124300003051758
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 344,
+        "createdNodes": 657,
+        "time": 2.1976999640464783
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 9010,
+        "createdNodes": 17561,
+        "time": 72.0489000082016
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 4941,
+        "createdNodes": 9517,
+        "time": 38.03749996423721
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 7906,
+        "createdNodes": 15139,
+        "time": 66.2930999994278
+    },
+    {
+        "steps": 21,
+        "visitedNodes": 246,
+        "createdNodes": 470,
+        "time": 1.7728999853134155
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 2194,
+        "createdNodes": 4265,
+        "time": 14.920799970626831
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 6609,
+        "createdNodes": 12747,
+        "time": 60.98460000753403
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 4901,
+        "createdNodes": 9440,
+        "time": 37.53760004043579
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 298,
+        "createdNodes": 577,
+        "time": 2.1139000058174133
+    },
+    {
+        "steps": 29,
+        "visitedNodes": 745,
+        "createdNodes": 1462,
+        "time": 4.56139999628067
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 471,
+        "createdNodes": 934,
+        "time": 3.0802000164985657
+    },
+    {
+        "steps": 55,
+        "visitedNodes": 245723,
+        "createdNodes": 456901,
+        "time": 63276.315699994564
+    },
+    {
+        "steps": 39,
+        "visitedNodes": 7118,
+        "createdNodes": 13340,
+        "time": 66.2824000120163
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 17738,
+        "createdNodes": 33500,
+        "time": 196.43460005521774
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 2039,
+        "createdNodes": 4041,
+        "time": 16.423000037670135
+    },
+    {
+        "steps": 31,
+        "visitedNodes": 1119,
+        "createdNodes": 2168,
+        "time": 6.796000003814697
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 2875,
+        "createdNodes": 5684,
+        "time": 31.53580003976822
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 5702,
+        "createdNodes": 11022,
+        "time": 49.068300008773804
+    },
+    {
+        "steps": 53,
+        "visitedNodes": 26075,
+        "createdNodes": 50423,
+        "time": 486.90619999170303
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 5554,
+        "createdNodes": 10888,
+        "time": 48.32920002937317
+    },
+    {
+        "steps": 33,
+        "visitedNodes": 1868,
+        "createdNodes": 3666,
+        "time": 15.796599984169006
+    },
+    {
+        "steps": 41,
+        "visitedNodes": 7661,
+        "createdNodes": 14781,
+        "time": 77.02410000562668
+    },
+    {
+        "steps": 39,
+        "visitedNodes": 11156,
+        "createdNodes": 21600,
+        "time": 122.10199999809265
+    },
+    {
+        "steps": 23,
+        "visitedNodes": 221,
+        "createdNodes": 453,
+        "time": 1.6744999885559082
+    },
+    {
+        "steps": 25,
+        "visitedNodes": 515,
+        "createdNodes": 1032,
+        "time": 4.439899981021881
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 9672,
+        "createdNodes": 18889,
+        "time": 94.37180000543594
+    },
+    {
+        "steps": 37,
+        "visitedNodes": 1638,
+        "createdNodes": 3206,
+        "time": 13.478200018405914
+    },
+    {
+        "steps": 35,
+        "visitedNodes": 3166,
+        "createdNodes": 6204,
+        "time": 33.698499977588654
+    }
+]
